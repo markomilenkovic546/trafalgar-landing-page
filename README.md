@@ -19,7 +19,5 @@ It serves as a reference for the visual representation and layout of the landing
 2. Install the dependencies by running `npm install`.
 3. Run the project using a Live Server to view the landing page.
 
-## Contribution
 
-Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
 
