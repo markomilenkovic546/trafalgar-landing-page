@@ -11,7 +11,7 @@ It serves as a reference for the visual representation and layout of the landing
 
 ## Dependencies
 
-- Stripe library: The Stripe library is used to develop the slider functionality on the page.
+- Swiper library: The Swiper library is used to develop the slider functionality on the page.
   
 ## Usage
 
