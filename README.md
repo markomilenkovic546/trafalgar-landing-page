@@ -3,6 +3,7 @@
 Through the development of this project, I focused on practicing HTML structuring and CSS styling.
 Please note that the page layout and styling have been designed for desktop viewports only.
 
+URL: https://trafalgar-landing-page-ten.vercel.app/
 ## Design
 
 The page design was created using Figma.
@@ -13,11 +14,7 @@ It serves as a reference for the visual representation and layout of the landing
 
 - Swiper library: The Swiper library is used to develop the slider functionality on the page.
   
-## Usage
 
-1. Clone the repository.
-2. Install the dependencies by running `npm install`.
-3. Run the project using a Live Server to view the landing page.
 
 
 
